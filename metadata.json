@@ -1,0 +1,5 @@
+{
+  "name": "PingPong Pro Manager",
+  "description": "Ứng dụng quản lý giải đấu và vận động viên bóng bàn chuyên nghiệp với hệ thống xếp hạng A-H, quản lý đội, và phân tích trận đấu bằng AI.",
+  "requestFramePermissions": []
+}
